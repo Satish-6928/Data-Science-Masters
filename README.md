@@ -1,2 +1,2 @@
 # Data-Science-Masters
-This PW Skills Data Science masters course, Day wise update
+This PW Skills Data Science masters course,Here i will uploadDay wise update
